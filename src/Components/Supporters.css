@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Alkatra:wght@500&family=Amatic+SC:wght@700&family=Comfortaa:wght@300&family=Grape+Nuts&family=Indie+Flower&family=Lobster&family=Macondo&family=Merriweather&family=Noto+Serif&family=Outfit&family=Permanent+Marker&family=Poppins:ital,wght@0,300;0,500;0,600;1,100;1,200&family=Roboto+Mono&family=Style+Script&family=Tapestry&family=Ubuntu:wght@400;500;700&display=swap");
+
+.containered {
+  display: flex;
+  justify-content: center;
+  width: 200%;
+  height: 70px;
+  margin-left: 145px;
+  margin-top: 90px;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.btn-group-toggle {
+  display: flex;
+  gap: 20px;
+}
+
+.btn2 {
+  flex-grow: 1;
+  background-color: rgb(44, 44, 153);
+  font-weight: bolder;
+  font-size: 12px;
+}
+
+.support {
+  margin: 30px;
+  font-size: 18px;
+  margin-left: 260px;
+  margin-bottom: -60px;
+}
+
+.support2 {
+  margin-top: -1px;
+  margin-left: 200px;
+  margin-bottom: 40px;
+  font-family: "Poppins", sans-serif;
+  background-color: white;
+  color: blue;
+  padding: 10px;
+  border-radius: 3px;
+  font-size: 22px;
+  text-decoration: underline;
+}
+
+.support3 {
+  margin-top: -1px;
+  margin-right: -200px;
+  margin-bottom: 40px;
+  font-family: "Poppins", sans-serif;
+  background-color: white;
+  color: blue;
+  padding: 10px;
+  border-radius: 3px;
+  font-size: 21px;
+  text-decoration: underline;
+}
+
+.subway {
+  font-family: "Poppins", sans-serif;
+  background-color: rgb(42, 54, 145);
+  margin-left: 110px;
+  padding: 10px;
+  width: 170%;
+  color: white;
+  font-size: 17px;
+}
+
+.subway2 {
+  font-family: "Poppins", sans-serif;
+  background-color: rgb(42, 54, 145);
+  margin-left: 110px;
+  padding: 10px;
+  width: 165%;
+  color: white;
+  font-size: 17px;
+}
+
+.subway3 {
+  font-family: "Poppins", sans-serif;
+  background-color: rgb(42, 54, 145);
+  margin-left: 110px;
+  padding: 10px;
+  width: 161%;
+  color: white;
+  font-size: 17px;
+}
+
+.mag {
+  margin-left: 150px;
+  font-size: 15px;
+  margin-right: -150px;
+  font-weight: 100;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: rgb(61, 61, 184);
+}
+
+.hex {
+  margin-top: -10px;
+  margin-left: 1px;
+  margin-bottom: 5px;
+  cursor: pointer;
+  width: 100%;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #dcd9d9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1433b1;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #717171;
+}

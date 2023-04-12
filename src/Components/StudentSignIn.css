@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@500&family=Amatic+SC:wght@700&family=Comfortaa:wght@300&family=Grape+Nuts&family=Indie+Flower&family=Lobster&family=Macondo&family=Merriweather&family=Noto+Serif&family=Outfit&family=Permanent+Marker&family=Poppins:ital,wght@0,300;0,500;0,600;1,100;1,200&family=Roboto+Mono&family=Style+Script&family=Tapestry&family=Ubuntu:wght@400;500;700&display=swap');
+
+.form-control {
+    color: black;
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.101);
+    outline: none;
+    border: none;
+    font-size: 1rem;
+    padding: 10px;
+    margin: 50px;
+  
+  }
+
+.mhead{
+    margin: 50px;
+    font-family: 'Alkatra', cursive;
+    font-size: 22px;
+    color: rgb(29, 29, 182);
+    margin-top: 10px;
+    text-decoration: underline;
+
+}  
+.subheads{
+    margin: 50px;
+    margin-bottom: -50px;
+    font-size: 17px;
+    margin-top: 18px;
+    font-family: 'Merriweather', serif;
+}  
+
+.subheads2{
+    margin: 50px;
+    margin-bottom: -50px;
+    font-size: 17px;
+    margin-top: 58px;
+    font-family: 'Merriweather', serif;
+}
+
+.subheads3{
+    margin: 50px;
+    margin-bottom: -50px;
+    font-size: 17px;
+    margin-top: 58px;
+    font-family: 'Merriweather', serif;
+}  
+
+
+
+.please2 {
+    font-family: 'Poppins', sans-serif;
+    margin: 50px;
+    color: gray;
+    margin-bottom: -30px;
+    margin-top: -25px;
+    font-size: 15px;
+  }
+
+.go{
+    margin: 50px;
+    width: 50%;
+    margin-top: 85px;
+    height: 50px;
+    color: white;
+    background-color: #08207f;
+    border-radius: 4px;
+    outline: none;
+    cursor: pointer;
+    font-size: 18px;
+    font-family: 'Noto Serif', serif;
+    font-weight: bold;
+
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #dcd9d9;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #1433b1;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #717171;
+  }
